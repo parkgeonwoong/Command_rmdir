@@ -27,11 +27,11 @@
 10. 실행 결과 
 
 ### Mind_Map
-<img src="https://user-images.githubusercontent.com/65653053/104178454-b3c24380-544d-11eb-85cd-415e8f84f331.PNG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/65653053/104178454-b3c24380-544d-11eb-85cd-415e8f84f331.PNG" width="55%"></img>
 
 ### Back_Log
-<img src="https://user-images.githubusercontent.com/65653053/104178451-b2911680-544d-11eb-9269-ddc0bfc647b4.PNG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/65653053/104178451-b2911680-544d-11eb-9269-ddc0bfc647b4.PNG" width="60%"></img>
 
 ### Process
-<img src="https://user-images.githubusercontent.com/65653053/104178456-b45ada00-544d-11eb-86ca-8c7821060028.PNG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/65653053/104178456-b45ada00-544d-11eb-86ca-8c7821060028.PNG" width="65%"></img>
 
